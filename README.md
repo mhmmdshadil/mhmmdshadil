@@ -4,12 +4,8 @@
 
 ## 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 😁
 ✦ 𝖠 19 𝗒𝖾𝖺𝗋 𝗈𝗅𝖽 𝖴𝖨/𝖴𝖷 𝖣𝖾𝗌𝗂𝗀𝗇𝖾𝗋 & 𝖶𝖾𝖻 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 
+### Personal Website 
 https://mhmmdshadil.github.io/muhammed-shadil/
-
-### 𝗦𝗢𝗠𝗘 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗨𝗦𝗘 
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
 ### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 ![](https://github-readme-stats.vercel.app/api?username=mhmmdshadil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
