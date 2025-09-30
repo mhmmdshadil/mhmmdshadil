@@ -9,5 +9,5 @@ https://mhmmdshadil.github.io/muhammed-shadil/
 ### 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 ![](https://github-readme-stats.vercel.app/api?username=mhmmdshadil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+ 
