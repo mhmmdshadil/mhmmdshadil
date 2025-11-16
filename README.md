@@ -1,8 +1,20 @@
-<h1 align="center">Hi 👋, I'm Muhammed Shadil</h1>
-<h3 align="center">IT Undergrad at GEC Palakkad</h3>
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!-- 🌟 MUHAMMED SHADIL – SUPERCHARGED CREATIVE README               -->
+<!-- Copy & paste directly into your GitHub README.md                -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhmmd_shadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmmd_shadil" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmmd.shadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmmd.shadil" height="30" width="40" /></a>
+<h1 align="center">🌌 Hey there, I'm <span style="color:#62B6CB">Muhammed Shadil</span>!</h1>
+
+<p align="center">
+  <em>IT Undergrad at GECSKP 🧑‍💻 • Developer • Tech Explorer</em><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=62B6CB&center=true&vCenter=true&width=550&lines=Building+cool+things+with+code.;Always+curious+%26+always+learning.;Welcome+to+my+GitHub+Universe!+👨‍🚀" />
 </p>
+
+---
+
+## 🚀 **About Me**
+```text
+Name: Muhammed Shadil
+Pronouns: he/him
+Location: Kerala, India
+Education: IT Undergrad @ GECSKP
