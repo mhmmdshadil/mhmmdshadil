@@ -20,7 +20,8 @@
   <img alt="github contribution grid snake animation" 
        src="https://raw.githubusercontent.com/aishwaryanair440/aishwaryanair440/output/github-contribution-grid-snake.svg">
 </picture>
-## 🚀 **About Me**
+
+## 🚀 About Me
 
 ```text
 Name: Muhammed Shadil
